@@ -30,7 +30,7 @@ ipython==8.5.0
     # via
     #   ipykernel
     #   ipywidgets
-ipywidgets==8.0.2
+ipywidgets==7.33.0
     # via -r requirements.in
 jedi==0.18.1
     # via ipython
