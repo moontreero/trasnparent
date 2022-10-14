@@ -52,7 +52,7 @@ nest-asyncio==1.5.6
     # via
     #   ipykernel
     #   jupyter-client
-numpy==1.23.4
+numpy==1.21.6
     # via
     #   -r requirements.in
     #   contourpy
